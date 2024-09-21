@@ -6,6 +6,10 @@ https://ff6d729d1cd0f4d4c9.gradio.live/
 
 System to fetch documentation from a website, process and embed the content for semantic search, and finally, retrieve relevant information in response to a user's query. The user interacts with the system through a simple Gradio-based interface. Here's a breakdown of each component:
 
+## System workflow 
+![image](https://github.com/user-attachments/assets/e04ee3c3-c6f6-4428-a07c-1daf862d01d2)
+
+
 ## Libraries and Modules Setup
 
 The code starts by installing some key Python libraries using pip install for packages like qdrant-haystack, fastembed, groq, and gradio.

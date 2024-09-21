@@ -2,7 +2,7 @@
 High Level: Create a Conversational AI bot for answering user support queries
 
 ### Hosted URL - 
-https://ff6d729d1cd0f4d4c9.gradio.live/
+https://129b38e5ea2d4fdbcf.gradio.live/
 
 ### PPT and Demo - 
 https://drive.google.com/drive/folders/1h0RYuOLU9bcLB0b5JRwBeBw2Zr6QQpKw?usp=drive_link

@@ -4,6 +4,9 @@ High Level: Create a Conversational AI bot for answering user support queries
 ### Hosted URL - 
 https://ff6d729d1cd0f4d4c9.gradio.live/
 
+### PPT and Demo - 
+https://drive.google.com/drive/folders/1h0RYuOLU9bcLB0b5JRwBeBw2Zr6QQpKw?usp=drive_link
+
 System to fetch documentation from a website, process and embed the content for semantic search, and finally, retrieve relevant information in response to a user's query. The user interacts with the system through a simple Gradio-based interface. Here's a breakdown of each component:
 
 ## System workflow 
